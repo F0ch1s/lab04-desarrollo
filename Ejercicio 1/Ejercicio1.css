@@ -1,0 +1,23 @@
+#main{
+    text-align: center;
+    background-color: #fff;
+    padding: 10px;
+    max-width: 40%;
+    margin-left: 5%; 
+    margin-right: 5%;
+    border-radius: 10px;
+    border: solid;
+    border-color: #1f650d;
+    background-color: rgb(64, 44, 152);
+}
+
+#main h1{
+    font-size: 26pt;
+    color: cyan;
+}
+
+#main p{
+    font-size: 14pt;
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+}
